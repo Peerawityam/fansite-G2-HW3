@@ -29,7 +29,7 @@ header h1 {
   font-family: monospace;
   text-wrap: nowrap;
   overflow: hidden;
-  border-right: 3px solid #fff; /* เคอร์เซอร์กระพริบ */
+  border-right: 3px solid #fff;
   animation: typing 3s steps(20) infinite alternate, blink 0.6s step-end infinite;
 }
 
